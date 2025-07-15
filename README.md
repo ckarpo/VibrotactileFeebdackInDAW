@@ -6,7 +6,7 @@ The repository contains the 30 audio tracks used in the study that simulate the 
 It also contains the maxpatch for the User Interface. 
 
 Demo Video:
-https://youtu.be/MylLfQKMcYM
+https://youtu.be/AXVA-fkSRkA 
 
 Overall Interface
 https://github.com/ckarpo/VibrotactileFeebdackInDAW/blob/main/test%20interface.png
