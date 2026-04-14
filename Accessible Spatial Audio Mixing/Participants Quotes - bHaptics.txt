@@ -1,0 +1,60 @@
+Theme 1: Benefits of Vibrotactile feedback in accuracy of sound localisation and lowering cognitive load
+
+- P1: "With the vibration, of course, because it gave me like a clear imaging"
+- P3: "actually, I'm hearing the sounds better now in relation to audio alone"
+
+benefits of a second modality:
+- P1: "it's just adding another sensory approach to your workflow. I mean, it keeps you a little more engaged. So it was fun."
+- P4: "And having another sense to assist that makes me feel a bit more comfortable with the sides (of the vest), or like with imagining the sound in the space.[...] once you have another sense to support your experience, at least I find it a bit more reassuring"
+
+Reduction of Cognitive Load:
+- P4: "It was very difficult with the audio, but with the vibrations, again, it felt like I could rely on another sense to give some more reassurance on what I was doing. So I felt like with the vest, it wasn't as mentally demanding as if I just had audio to focus on."
+- P2: ""I don't think it's (cognitive) demanding in the slightest because it's using a different thing. You're feeling the music, you're hearing the music. Music is vibrations anyway. I think you made the experience a lot more enjoyable than it would have been, just hearing this screen reader. Often, I'll just turn the screen reader down so I can kind of hear what's going on, but it's not getting in the way of the music. But with this, you don't need to do that." 
+- P1: "I did have the screen reader on. Whatever angle it was announcing, I didn't understand anything of that."
+
+Resemblance to visual feedback:
+- P3: "I'll say it's similar. For instance, in Logic, I know that it's in front; I'm seeing it. Here, I'm feeling it as well. Like from the vibration. So I'll say it's really similar."
+- P1: "I think it just took the load off me. Sometimes when I'm working on my projects, I just feel too tired wearing the headphones and especially mixing because you just, you know, start noticing differences or, you know, you fail to come to a decision when you're mixing, because sometimes you end up being very confused with pannings, et cetera. So, with this vest, I can just put my headphones aside. I just sit there, but with this vest, I'm giving a break to one sensory approach, but the other is filling in, and my workflow doesn't stop, so maybe we'll lead to a faster workflow."
+
+Theme 2: Easy familiarisation with the system and initial usability impressions
+
+Quick Familiarisation :
+- P1: "Very quickly, yeah, hands-on, straight away."
+- P2: "I think very quickly. It feels very functional.[...] Very intuitive to me, more intuitive in some ways than a screen reader."
+- P4: " I think it's quite intuitive to use and it's quite manageable." 
+- P5: "I think I did about a few moves and then a quick 'massage', a few laps again, just to kind of work out what the haptics is. So, probably what, 20 seconds? Quicker than the audio."
+
+Embodiment: 
+- P3: "I feel it was more like home, it was more like close by so it's really kind of personal."
+
+Usability:
+- P2: "Because you could do like an induction session. So what you could do is when the person gets the thing, they press the thing and then it sort of says, right, this is this, this is this, you're calibrated now, let's go. Like anything has a training mode."
+
+Use of Keyboard: 
+- P1: "Making sure that the short press is consistent, I'm just trying to count approximately how many clicks it takes to complete the circle, so that I can, if I'm going 10 clicks to front right, I will then go just 10 clicks to front left. I just want it to be very exact, that's why I counted. So you can calculate the exact location."
+
+
+Anchors:
+- P4: "with the vest, because there were like the anchoring points that I could feel, I feel like I could locate myself within the space and the sound a bit easier."
+
+Theme 3: Ways of improving the system
+
+- P1: "And then as you keep going around it, this becomes softer, and this becomes confusing. So I was just hoping that two vibrations can just be one."
+- P5: I was consciously aware of one point that the sound wasn't aligned with what I know. I think it felt off by a degree, but it was, almost important for my body for it to not be, because otherwise your body's being moved. So knowing something's off skew, you know, audibly, it's like someone grabbing you and shifting your whole body around and saying, are you straight now? No, I need to be straight. So you need that alignment."
+- P2: "the thing is with the centre, once you get used to where it is, it's ok, it's because there's no vibration in the zip. If there was some way of having a vibration, if there was some way of having a vibration strip on the thing (vest), on the zip, you'd know that centre."
+- P3: "Maybe it's a bit difficult to actually know where exactly it's I don't know how to explain. (Interviewer: Okay, do you mean like when you are exactly to the centre or exactly like 45 degrees?) P3: "So maybe, like, 25 degrees front-left; maybe it could vibrate more. Or maybe when it is 25 degrees back left, kind of similar intensity. [...] then maybe it should have a different vibration as well. But it's still vibrating, but at a different frequency."
+- P1: "I think it's very good, but I would just like the customisations to be at my fingertips. Some days I want to feel like a softer vibration, some days I want it to be a little more intense, depending on how I'm feeling, also like it doesn't vibrate until you press the arrow key, maybe at times I want that to change, and I want that to keep vibrating."
+
+Theme 4: Integration to DAW
+
+- P1: "The haptic metronome is now becoming a thing. I saw a couple of apps, I mean metronome apps for the Apple Watch. And it's not really accurate at the moment. But what if this vest becomes accurate? Because the watch haptic is very soft. And who would prefer, like a drummer would prefer that. But the drummer is already involved in an intense activity when he's drumming. So he's not going to feel the wrist vibration. It has to be really intense. But something like a vest will give you that intensity. And sometimes it's irritating to work with the metronome on when you're recording and stuff. Sometimes it's irritating, and you have to turn on and off everything. So, you know, while you're giving the take, you know, while you're recording a riff, but when you want to listen to it, oh, how do I play it? You want the click to be off. So instead, if the haptic click is there, the haptic might be wrong. It doesn't really irritate you as much."
+- P4: ""I think there might be ways of experiencing different plugins within the vast. Let's say a parametric EQ? Not the visual one, but the one with knobs. So maybe some of the knobs can be assigned to different motors or like let's say that the front ones you have like one for the Q, one for the frequency, and one for the... for the gain, and sort of each of them controls something about it, I don't know. I think that could work, and let's say, so in a parametric EQ you start from zero, and then maybe if you go to the right, you have the centre ones on the right, on the front being triggered, and then if you go to the left, you have the back ones on the centre being triggered. I think something like that could be interesting to see if that could work. [...] I think one of the things that personally I would be more keen on, I mean, I would like to try, is this in a stereo scenario instead of surround. I wonder where, like, the vest could be used in conjunction with a reverb plugin to sort of simulate the space a bit more.[...] another idea could be to assign an instrument with a specific frequency response. So let's say the bass is like one short beep, and like the keyboard is like 2 short beeps. And you sort of feel them independently. And then that could help, like with tracking where things are. So suddenly, like you're feeling 2 short beeps every so often here at the front. And maybe 2 and maybe one single shot beat at the back, at the back right, and you're like, Okay, so I know that the bass is here, the keyboard is here, and everyone else is here, so I can sort of move that around."
+- P3: "intensity of the send. For instance, if I'm sending a revert to a snare, for instance, after creating a bus for it. And when I'm sending a reverb to that particular snare, just the intensity, as it goes from zero to kind of maximum. So maybe intensity of the, maybe the vibration increases as the, as the send increases as well."
+
+
+
+
+
+
+
+
